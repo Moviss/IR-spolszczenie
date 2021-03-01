@@ -348,7 +348,7 @@
  OVERWRITE_SAVE_CONFIRMATION_DESC:0 "Jesteś pewien, że chcesz nadpisać plik $SAVE_NAME|Y$?"
  DELETE_SAVE_CONFIRMATION_DESC:0 "Jesteś pewien, że chcesz usunąć plik $SAVE_NAME|Y$?"
  LOAD_OLD_SAVE_DESC:0 "$SAVE_NAME|Y$ jest z innej wersji gry. Jesteś pewien, że chcesz go załadować?"
- OPEN_FOR_MULTIPLAYER:0 "Otwórz dla trybu wieloosobowego"
+ OPEN_FOR_MULTIPLAYER:0 "Włącz tryb wieloosobowy"
  HOST:0 "Host"
  JOINING_SERVER_PROGRESS:0 "Dołączanie do serwera: $PROGRESS|0%$"
  GENERATING_BOOKMARK_PROGRESS:0 "Generowanie dziejów świata: $PROGRESS|0%$"
