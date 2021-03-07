@@ -1,9 +1,9 @@
 ﻿l_english:
  ###Roman Republican Laws
  corruption_laws_rom:1 "Zatwierdzenie Zgromadzenia"
- no_laws_on_corruption:1 "Curiate Assembly"
- no_laws_on_corruption_desc:2 "The Curiate assembly was a legislative body open to all those of patrician status within Roman society. Whilst it lost much power to the establishment of other assemblies, the symbolic votes it cast could carry much weight on matters of state."
- lex_acilia_repetundarum:1 "Tribal Assembly"
+ no_laws_on_corruption:1 "Zgromadzenie Kurialne"
+ no_laws_on_corruption_desc:2 "Zgromadzenie kurialne było ciałem ustawodawczym otwartym dla wszystkich osób o patrycjuszowskim statusie w społeczeństwie rzymskim. Choć straciło ono wiele władzy na rzecz innych zgromadzeń, symboliczne głosy, które oddawało, mogły mieć duże znaczenie w sprawach państwowych."
+ lex_acilia_repetundarum:1 "Zgromadzenie Trybusowe"
  lex_acilia_repetundarum_desc:1 "The 35 tribes of the Tribal Assembly were composed of citizens residing in distinct geographic areas. It voted, like the Curiate assembly, on matters legislative; providing endorsement and authority on many decisions."
  lex_cassia_de_senatu:1 "Centuriate Assembly"
  lex_cassia_de_senatu_desc:2 "The military arm of the Roman democratic system, the Centuriate assembly was weighted by the material wealth of the soldiers of which it was comprised. The practical result was a particularly elitist legislative body."
