@@ -1,0 +1,18 @@
+﻿l_english:
+ protectorate:0 "Protektorat"
+ CANCEL_TITLE:0 "Cofnięcie statusu poddanego"
+ subject_merc_city_state_cost_modifier:0 "Dochód państwa najemników"
+ MERC_CITY_STATE_EFFECT_TT:0 "[SCOPE.GetRootScope.GetProvince.GetName|Y] staną się wolnym miastem, prowadzonym przez lokalnego najemnika.\nStaną się naszymi poddanymi, z bonusem do rezerw ludzkich.\n\n"
+ SYR_merc_state_title:0 "Utwórz państwo-miasto najemników"
+ SYR_merc_state_desc:0 "Czy na pewno chcesz stworzyć państwo-miasto najemników? To stworzy poddanego z [SCOPE.GetRootScope.GetProvince.GetName|Y]."
+ recruit_character_mg_syr_cost_modifier:0 "Modyfikator kosztu elekcji lidera"
+ goes_here_becomes_king_tt:0 "[SCOPE.sChar('target').GetPraenomen|Y] przenosi się do [SCOPE.sC('actor').GetName|Y] i zostaje [SCOPE.sC('actor').GetRulerTitle|Y]."
+ mg_recruit_cooldown_string:0 "Czynność tę można wykonać ponownie dopiero po [SCOPE.sC('actor').GetVariableExpiry('mg_recruit_cooldown')|Y]"
+ recruit_character_mg_syr:0 "Wybierz Króla Najemników"
+ create_merc_state_price:0 "Utwórz państwo najemników"
+ owned_by_us_tt:0 "Należy do nas."
+ MERC_CITY_MONARCHY_EFFECT:0 "Jeśli posiadasz rodzaj rządu #Y Monarchia#!, raz na #Y 5#! lat możesz zdecydować się na obalenie swojego obecnego władcy, zastępując go władcą należącym do jednego z twoich #Y Państw Najemników#!. Można to zrobić za pomocą #Y Interakcji Postaci#!! i wymaga to wprowadzenia #Y Prawa Kontraktów Najemników#!.\n\n"
+ LEAGUE_CITY_STATE_EFFECT_TT:0 "[SCOPE.GetRootScope.GetProvince.GetName|Y] staną się miastem wolnej ligi, kierowanym przez republikański rząd. \nStaną się naszymi poddanymi, z bonusem do ich państwowych szlaków handlowych i produkowanych towarów. Nie dołączą do nas w wojnach, ale nie będą kosztować miejsca na stosunki dyplomatyczne i nie mogą zostać zintegrowane."
+ league_city_title:0 "Utwórz Miasto Ligii"
+ league_city_desc:0 "Czy na pewno chcesz utworzyć Miasto Ligi? To utworzy poddanego z [SCOPE.GetRootScope.GetProvince.GetName|Y]."
+ 

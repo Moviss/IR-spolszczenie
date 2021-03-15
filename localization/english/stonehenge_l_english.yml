@@ -1,0 +1,24 @@
+﻿l_english:
+ stonehenge.1.t:0 "W czasach starożytnych..."
+ stonehenge.1.desc:0 "Po miesiącach podróży po odległej Britanii, [druid.GetName] przyjął obsceniczną formę ubioru. Włosy [druid.GetHerHis|U] spływają do ramion [druid.GetHerHis], tunika [druid.GetHerHis] jest wyszywana czymś, co wydaje się być żebrami szkieletu, a co najgorsze, [druid. GetSheHe] nosi nieskromne barbarzyńskie spodnie, tak ciasne, że [druid.GetSheHe] ledwo może się poruszać.\n\n"Druidyczne rytuały Brytyjczyków są jak muzyka dla moich uszu i zdecydowałem, że musimy przyjąć niektóre z ich praktyk." Podaje [sthubbins.GetName] brudną szmatę z brudnym szkicem kamiennego pomnika, na którym widnieje garść prymitywnych pomiarów. Pochyla się do przodu i szepcze: "Stonehenge.""
+ stonehenge.1.a:0 "[ROOT.GetCountry.GetName] weźmie cię za rękę."
+ stonehenge.1.b:0 "Idź [druid.GetName], idź!"
+ stonehenge.1.c:0 "Duchowo to wiemy, ale nie mamy sprzętu!"
+
+ ### Stonehenge construction
+ stonehenge.2.t:0 "Przed Świtem Historii..."
+ stonehenge.2.desc:0 "Ceremonie [ROOT.GetCountry.GetName] stały się ostatnio coraz mniej popularne, a [sthubbins.GetName] za każdym razem próbował stworzyć bardziej pomysłową scenografię, by przyciągnąć uwagę publiczności. Jednak po tym, jak scenograf został uwięziony i zagłodzony na śmierć w kwiecie wielkości człowieka z ostatniego przedstawienia, Stonehenge jest jedyną nadzieją [ROOT.GetCountry.GetName].\n\nKilka miesięcy po dostarczeniu schematów od druidów z Britannii do architektów, [sthubbins.GetName] i [druid.GetName] odwiedzają plac budowy. Po kilku krokach [druid.GetName] potyka się i upada płasko. Wygląda na to, że [druid.GetSheHe] potknął się o wysoki na kolana stos ułożonych płaskich skał - pomnika nigdzie nie widać. Stopniowo do [sthubbins.GetName] dociera, że ta kupa skał to właśnie pomnik.\n\n[druid.GetName] wydaje się niewzruszony: "Czy jutro nadal robimy Stonehenge?"
+ stonehenge.2.a:0 "Naturalnie - nie róbmy z tego wielkiej sprawy."
+ stonehenge.2.b:0 "Nie, to ma tylko jeden łokieć wysokości!"
+ stonehenge.2.b.tt:0 "Powinno być osiemnaście łokci"
+
+ ###
+ stonehenge.3.t:0 "The Pipes of Pan"
+ stonehenge.3.desc:0 "Na chwilę przed ceremonią odsłonięcia Stonhenge na centralnym rynku [main_stage.GetName], doniesiono, że wynajęci muzycy, którzy mieli zapewnić wesołość podczas wydarzenia, tragicznie zginęli w dziwnym wypadku w Wiszących Ogrodach Babilonu. Tylko [sthubbins.GetName] i [druid.GetName] pozostali, aby wykonać ten akt. Podniósłszy lirę, [sthubbins.GetName], w nowej parze barbarzyńskich spodni, kopiuje postawę [druida.GetName] - nogi jak najdalej od siebie.\n\n"[sthubbins.GetName], prowadź lirę!" woła [druid.GetName], do tłumu złożonego z garnizonu [main_stage.GetName] zmuszonego do zgromadzenia się wokół maleńkiego kamiennego kręgu."
+ stonehenge.3.a:0 "Stonehenge! Gdzie mieszkają demony!"
+ stonehenge.3.b:0 "Stonehenge! Gdzie mężczyzna jest mężczyzną!"
+ stonehenge.3.c:0 "Stonehenge! Gdzie leżą dziewice!"
+ 
+ 
+ 
+ stonehenge.4.desc:0 "Ceremonie [ROOT.GetCountry.GetName] stały się ostatnio coraz mniej popularne, a [sthubbins.GetName] za każdym razem próbował stworzyć bardziej pomysłową scenografię dla każdej ceremonii, aby przyciągnąć uwagę publiczności. Jednak po tym, jak scenograf został uwięziony i zagłodzony na śmierć w kwiecie wielkości człowieka z ostatniego przedstawienia, Stonehenge jest jedyną nadzieją [ROOT.GetCountry.GetName].\n\nKilka miesięcy po przekazaniu schematów druidów Britannii architektom [ROOT.GetCountry.GetName], [sthubbins.GetName] i [druid.GetName] odwiedzają plac budowy. Po kilku krokach, [druid.GetName] potyka się i upada na ziemię. Patrząc w dół, można zauważyć, że [druid.GetSheHe] potknął się o wysoki na kolana stos ułożonych płaskich skał - pomnika nigdzie nie widać. Stopniowo do [sthubbins.GetName] dociera, że ta kupa skał to właśnie pomnik.\n\n[druid.GetName] wydaje się niewzruszony: "Czy jutro nadal robimy Stonehenge?"
