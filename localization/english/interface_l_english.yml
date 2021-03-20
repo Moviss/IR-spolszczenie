@@ -905,7 +905,7 @@ DISBAND_NOT_WHEN_LOADED:0 "Armie zaokrętowane nie mogą zostać rozwiązane."
  TV_BASE:0 "Z populacji"
  TECH_RESEARCH_NAME:0 "$NAME$"
  RESEARCH_YEARLY_LABEL:0 "$VAL|=1$"
- RESEARCH_LEVEL:1 "Obecny poziom: $VAL$"
+ RESEARCH_LEVEL:1 "$VAL$"
  FOREIGN_RESEARCH_LEVEL:0 "$VAL|Y$"
  NO_IDEA_FOREIGN_TITLE:1 "Brak idei"
  NO_IDEA_FOREIGN_DESC:0 "Obecnie nie wybrano żadnej idei dla tego slotu.
