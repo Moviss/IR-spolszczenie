@@ -18,7 +18,7 @@
  deity_flavor.3.a:0 "Ale... byliśmy tak pewni, że zostaliśmy pobłogosławieni."
 
  deity_flavor.4.t:0 "Niezapomniana wiosna"
- deity_flavor.4.desc:0 "Małe źródełko dla [ spring_deity.GetName] w [spring_province.GetName] stało się o wiele bardziej popularne w ostatnich dniach, jako że krążą nowe opowieści o bóstwie. Nawet ludzie z daleka podróżują aż do [spring_province.Custom('get_city_status_lloc')], aby wziąć udział w obrzędach, które się tam odbywają, mając nadzieję na błogosławieństwo."
+ deity_flavor.4.desc:0 "Małe źródełko dla [spring_deity.GetName] w [spring_province.GetName] stało się o wiele bardziej popularne w ostatnich dniach, jako że krążą nowe opowieści o bóstwie. Nawet ludzie z daleka podróżują aż do [spring_province.Custom('get_city_status_lloc')], aby wziąć udział w obrzędach, które się tam odbywają, mając nadzieję na błogosławieństwo."
  deity_flavor.4.a:0 "[spring_province.GetName] będzie znany jako dom [spring_deity.GetName]."
  deity_flavor.4.a.tt:0 "Ta opcja jest dostępna, ponieważ bóstwo #Y [spring_deity.GetName]#! nie posiada świętego miejsca."
  deity_flavor.4.b:0 "Może udałoby się nam zachęcić niektórych z tych obcokrajowców do pozostania w [spring_province.GetName]?"
