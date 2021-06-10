@@ -1,0 +1,297 @@
+﻿l_english:
+### GW Interface
+
+ GW_BUILD_WINDOW_DEFAULT_TITLE:0 "Wielki Cud"
+ GW_SELECT_EFFECT_TT:0 "Wybierz efekt"
+ GW_BUILD_BUTTON:0 "Wybuduj wielki cud"
+ GW_BUILD_BUTTON_TOOLTIP:0 "Otwórz interfejs konstrukcji"
+ GW_CONSTRUCTION_TITLE:0 "Przegląd budowy"
+ GW_COST_LABEL_GOLD:0 "Koszty pieniężne: "
+ GW_COST_LABEL_WORK:0 "Koszty pracy: "
+ GW_COST_LABEL_TIME:0 "Czas: "
+ GW_COST_LABEL_WORK_RATE:0 "Tempo pracy: "
+ GW_PRESTIGE_LABEL:0 "Prestiż: "
+ GW_MAX_TIER_LEVEL_LABEL:0 "Maksymalny poziom: "
+ GW_EFFECT_TIER_NAME:0 "Poziom"
+ GW_ALREADY_PRESENT_IN_PROVINCE:0 "Tu już znajduje się wielki cud"
+ GW_EDIT_BUTTON:0 "Zmień"
+ GW_EDIT_TOOLTIP:0 "#T Edytuj cud#!\n$CHANGES$"
+ GW_EDIT_NO_CHANGE_TOOLTIP:0 "Brak zmian"
+ GREAT_WORK_SELECT_LEADER_HEADER:0 "Wyznacz na kierownika budowy"
+ GREAT_WORK_NO_LEADER_TT:0 "Nie przydzielono kierownika\n@time!Construction Time $VALUE|-=%^$"
+
+ GW_BUILD_BUTTON_REASON:0 "#T Rozpoczęcie budowy $NAME|V$#!\n$REASONS$"
+ GW_LACKING_PRESTIGE_FOR_EFFECT:2 "@trigger_no!$EFFECT$ $TIER$ potrzebuje co najmniej $EFFECT_PRESTIGE$ prestiżu."
+ GW_LACKING_EFFECTS:0 "@trigger_no!Musisz wybrać co najmniej jeden efekt."
+ GW_LACKING_GOLD:0 "@trigger_no!Budowa wymaga $COST|-2$@gold!"
+ GW_LACKING_GOLD_EDIT:0 "@trigger_no!Zmiana ta wymaga $COST|-2$@gold!"
+ GW_LACKING_BUILDING_SLOTS:0 "@trigger_no!Nie ma wolnych miejsc na budowę w $NAME$."
+ GW_GOLD_COST:0 "$COST|+2$@gold!"
+ GW_POLITICAL_COST:0 "$COST|+$@political_influence_icon!"
+ GW_STABILITY_COST:0 "$COST|+$@stability!"
+ GW_DUPLICATE_EFFECT_SELF:0 "@trigger_no!$EFFECT$ może być wybrany tylko raz."
+ GW_DUPLICATE_EFFECT_OTHER:0 "@trigger_no!$EFFECT$ jest wykorzystywany przez inny cud."
+
+
+ GW_LACKING_INFLUENCE_EDIT:0 "@trigger_no!Zmiana ta wymaga $COST|-2$ wpływów politycznych."
+
+ GW_CANNOT_CHANGE_LEADER:0 "Kierownik budowy nie może być zastąpiony innym przez $DAYS$ dni."
+ GW_CHARACTER_ALREADY_LEADING:0 "$NAME$ już prowadzi budowę $OTHER_WORK$"
+
+ GW_REMOVE_LEADER:0 "Usunięcie [CHARACTER.GetName] jako kierownika budowy"
+ GW_ASSIGN_LEADER:0 "Przydzielenie [CHARACTER.GetName] jako kierownika budowy"
+ GW_CURRENTLY_LEADING:0 "[CHARACTER.GetName] prowadzi obecnie budowę"
+
+ GREAT_WORK_EFFECT:0 "Następujące bonusy przyznane w $LOCATION|Y$:\n$EFFECTS$\n\n"
+ GREAT_WORK_EFFECT_CHANGE:0 "Zmienia $OLD_EFFECT|V$ na $NEW_EFFECT|V$"
+ GREAT_WORK_EFFECT_ADDED:0 "Dodaje $NEW_EFFECT|V$"
+ GREAT_WORK_EFFECT_REMOVE:0 "Usuwa $EFFECT|V$"
+ GREAT_WORK_TT:0 "#T $NAME$#!\n$EFFECTS$"
+ GREAT_WORK_LOCATION_TT:0 "#T $NAME$#!\nZlokalizowany w $LOCATION|Y$\n$EFFECTS$"
+ GREAT_WORK_CONSTRUCTION_TT:0 "$NAME|Y$ który zostanie zakończony $WHEN|Y$."
+ GREAT_WORK_CONSTRUCTION_ANCIENT_TT:0 "[GREAT_WORK.GetName|Y] jest w budowie."
+ GREAT_WORK_CONSTRUCTION_NEVER_TT:0 "$NAME|Y$ nigdy nie zostanie ukończony."
+ GREAT_WORK_TT_PROVINCE:2 "Prowincja[PROVINCE.GetRank.GetName] [PROVINCE.GetName] zawiera [GREAT_WORK.GetName|Y] Wielki Cud"
+
+ GREAT_WORK_PRESTIGE_BAR_TT:0 "#T Prestiż Konstrukcji#!\nPrestiż budowy wzrasta w miarę starzenia się Wielkiego Cudu, a także poprzez używanie lepszych materiałów budowlanych. Wyższy prestiż pozwala na uzyskanie potężniejszych efektów. \n\nProgi Prestiżu:\nPoziom I: #G 0#!\nPoziom II: #G 35#!\nPoziom III: #G 75#!\nPoziom IV: #G 140#!\n\nObecny Prestiż: #G $PRESTIGE$#!"
+ GREAT_WORK_EFFECT_TIER_TT:0 "Poziom $LEVEL$ wymaga $THRESHOLD$ prestiżu"
+
+ CANCEL_OR_DESTROY_GW_CONFIRMATION_TITLE:0 "$ADJECTIVE$ $NAME$"
+ CANCEL_OR_DESTROY_GW_CONFIRMATION_CANCEL_TEXT:0 "Anulować budowę $GREATWORK|Y$ w $PROVINCE|Y$? Nie odzyskasz żadnych kosztów budowy."
+ CANCEL_OR_DESTROY_GW_CONFIRMATION_DESTROY_TEXT:0 "Permametnie usunąć $GREATWORK|Y$ w $PROVINCE|Y$? Nie odzyskasz żadnych kosztów budowy."
+
+ CANCEL_OR_DESTROY_GW_ADJECTIVE_CANCEL:0 "Anuluj"
+ CANCEL_OR_DESTROY_GW_ADJECTIVE_DESTROY:0 "Zniszcz"
+
+ CANCEL_OR_DESTROY_GW_ACTION_CANCEL:0 "Anuluj budowy"
+ CANCEL_OR_DESTROY_GW_ACTION_DESTROY:0 "Permametnie zniszcz"
+
+ CANCEL_OR_DESTROY_GW_BUTTON_CANCEL_LABEL:0 "Anuluj budowę"
+ CANCEL_OR_DESTROY_GW_BUTTON_DESTROY_LABEL:0 "Znisz Wielki Cud"
+ CANCEL_OR_DESTROY_GW_BUTTON_CANCEL_TOOLTIP:0 "Ten projekt był pomyłką"
+ CANCEL_OR_DESTROY_GW_BUTTON_DESTROY_TOOLTIP:0 "Zburzcie to"
+
+ GREAT_WORK_DETACH_LEADER_TITLE:0 "Kierownik budowy"
+ GREAT_WORK_NO_LEADER_TO_DETACH:0 "Nie przydzielono kierownika"
+ GREAT_WORK_LEADER_DETACH_TT:1 "Usuń [CHARACTER.GetName] jako kierownika"
+ CANT_LEAD_CONSTRUCTION:1 "[CHARACTER.GetName] nie może prowadzić tej konstrukcji\n$REASON$"
+ GW_CONSTRUCTION_LEADER_TITLE:0 "$SHORT_TITLE$: $GW_NAME$"
+
+ GW_ALERT_NO_LEADER:0 "#T Brak kierownika budowy#!\nNastępujące Wielkie Cuda nie mają kierownika budowy"
+ GW_ALERT_NO_GOODS:0 "#T Brak towarów handlowych#!\nBudowę wstrzymują następujące kwestie"
+ GW_ALERT_NO_GOODS_DETAIL:0 "$NAME$ potrzebuje dostępu do $GOODS$"
+ GW_ALERT_CAN_UPGRADE:0 "#T Dostępne ulepszenie Wielkiego Cudu#!\nNastępujące Wielkie Cuda mogą zostać ulepszone o bardziej prestiżowe efekty"
+
+ GW_STABILITY_DECREASE_REASON:0 "zmiany dokonane w $NAME$"
+ GW_INFLUENCE_DECREASE_REASON:0 "zmiany dokonane w $NAME$"
+
+ GW_CONSTRUCTION_HALTED:0 "Budowa Wstrzymana"
+ GW_CONSTRUCTION_HALTED_REASON:0 "#X Budowa wstrzymana#!\n$REASON$"
+ GW_PROGRESS_HALT_REASON_MISSING_GOODS:0 "@trigger_no!Missing Trade Goods"
+ GW_PROGRESS_HALT_REASON_NO_WORKFORCE:0 "@trigger_no!No Workforce"
+ GW_CONSTRUCTION_MISSING_TRADE_GOOD:0 "\t@$TRADEGOOD_KEY$! $TRADEGOOD_NAME|UY$"
+
+ GW_DESIGN_BUTTON_TEXT:0 "Zbuduj Cud"
+
+ GW_CYCLE_BUTTON_TOOLTIP:0 "Przełącz między obecnymi tutaj Wielkimi Cudami"
+
+ GW_GOODS_REQ_TT:0 "Wymagane towary handlowe"
+
+ GW_RANDOM_NAME_BUTTON_TT:0 "Wygeneruj nową nazwę"
+ GW_MISSING_TRADEGOODS_TT:0 "Budowa zostanie wstrzymana z powodu brakujących towarów handlowych!"
+
+ GW_WINDOW_SELECT_MODULE:0 "$TYPE$ Moduł"
+ GW_WINDOW_SELECT_MATERIAL:0 "$TYPE$ Materiał"
+ GW_WINDOW_SELECT_TEMPLATE:0 "Szablon"
+ GW_WINDOW_SELECT_EFFECT:0 "Wybierz Efekt"
+ GW_WINDOW_CHANGE_COMPONENT_TT:0 "Zmień $CATEGORY_SLOT|Y$"
+ GW_WINDOW_CHANGE_MATERIAL_TT:0 "Zmień $CATEGORY_SLOT|Y$ materiał"
+
+ GW_CHANGE_NAME_TT:0 "Zmienia nazwę $OLD_NAME|Y$ na $NEW_NAME|Y$"
+
+ GW_EFFECTS_TITLE:0 "Efekty"
+ GW_EFFECTS_REMOVE_TT:0 "Usuń efekt"
+ GW_EFFECT_REMOVE_TT:0 "Usuń $EFFECT|Y$"
+ GW_EFFECT_NAME:0 "$NAME$ $TIER$"
+
+ GW_WORKFORCE_TOOLTIP_T:0 "#T Czas budowy #!"
+ GW_WORKFORCE_IN_STATE:0 "Siła robotnicza dostępna w $STATE|V$"
+ GW_WORKFORCE_POP:0 "@$ICON$! $AMOUNT$: $EFF|+%$"
+ GW_CONSTRUCTION_TIME_NO_LEADER:0 "Brak kierownika budowy"
+ GW_CONSTRUCTION_TIME_NO_LEADER_DESC:0 "Obecnie nie ma przydzielonego kierownika budowy.\nMa to następujące skutki:\n@time! Czas budowy: $VALUE|=-%^$"
+ GW_CONSTRUCTION_TIME_LEADER:0 "Kierownik Budowy"
+ GW_CONSTRUCTION_TIME_LEADER_DESC:0 "$NAME|V$ pełni funkcję kierownika budowy.\nMa to następujące skutki:"
+ GW_CONSTRUCTION_TIME_FINESSE:0 "@civic_icon! Czas budowy: $VALUE|-%/^$"
+ GW_CONSTRUCTION_COMPLETION_DATE:0 "Data ukończenia: $DATE|V$"
+ GW_CONSTRUCTION_COMPLETION_TIME:0 "Czas budowy: $DAYS|V$ Day(s)"
+
+ GW_BUILD_CONFIRMATION_TITLTE:0 "Zbuduj Cud"
+ GW_BUILD_CONFIRMATION_DESC:0 "Rozpocznij budowę $WONDER|V$ w $PROVINCE|V$? Będzie to kosztować $PRICE$"
+ GW_BUILD_CONFIRMATION_COST:0 " $GOLD_VALUE|+2$ @gold! $PI_VALUE|+0$ @political_influence_icon!"
+
+ GW_EDIT_CONFIRMATION_TITLE:0 "Ulepsz Cud"
+
+## GW triggers
+ PROVINCE_HAS_GREAT_WORK_TRIGGER:0 "[PROVINCE.GetName|Y] posiada wielki cud."
+ PROVINCE_HAS_NOT_GREAT_WORK_TRIGGER:0 "[PROVINCE.GetName|Y] nie posiada wielkiego cudu."
+ COUNTRY_HAS_GREAT_WORK_TRIGGER:0 "[COUNTRY.GetName|Y] posiada wielki cud."
+ COUNTRY_HAS_NOT_GREAT_WORK_TRIGGER:0 "[COUNTRY.GetName|Y] nie posiada wielkiego cudu."
+ STATE_HAS_GREAT_WORK_TRIGGER:0 "[STATE.GetName|Y] posiada wielki cud."
+ STATE_HAS_NOT_GREAT_WORK_TRIGGER:0 "[STATE.GetName|Y] nie posiada wielkiego cudu."
+ HAS_GW_CATEGORY_TRIGGER:0 "Należy do kategorii $CAT$."
+ HAS_NOT_GW_CATEGORY_TRIGGER:0 "Nie należy do kategorii $CAT$."
+ HAS_GW_ONLY_MATERIAL_TRIGGER:0 "Jest zbudowany w całości z $MAT$."
+ HAS_NOT_GW_ONLY_MATERIAL_TRIGGER:0 "Nie jest zbudowany w całości z $MAT$."
+ HAS_GW_ANY_MATERIAL_TRIGGER:0 "Został zbudowany z $MAT$."
+ HAS_NOT_GW_ANY_MATERIAL_TRIGGER:0 "Nie został zbudowany z $MAT$."
+ GREAT_WORK_NOT_MIN_EFFECT_TIER_TRIGGER:0 "Minimalny poziom skuteczności NIE jest $COMPARATOR$ $NUM|Y$"
+ GREAT_WORK_MIN_EFFECT_TIER_TRIGGER:0 "Minimalny poziom efektu wynosi $COMPARATOR$ $NUM|Y$"
+ GREAT_WORK_NOT_BUILT_BY_TRIGGER:0 "Nie został zbudowany przez [COUNTRY.GetName|Y]."
+ GREAT_WORK_BUILT_BY_TRIGGER:0 "Został zbudowany przez [COUNTRY.GetName|Y]."
+ any_great_work_in_province_trigger:0 "Posiada Wielki Cud"
+ GW_IS_NOT_ANCIENT_TRIGGER:0 "$WORK$ nie jest starożytnym cudem"
+ GW_IS_ANCIENT_TRIGGER:0 "$WORK$ jest starożytnym cudem"
+ GREAT_WORK_LOCATOR_IS_FREE:0 "Ma miejsce na ten cud"
+ GREAT_WORK_LOCATOR_IS_NOT_FREE:0 "Nie ma miejsca na ten cud"
+
+ BUILD_GREAT_WORK_EFFECT:0 "$NAME|Y$ zostanie zbudowany w [PROVINCE.GetName|Y]"
+ BEGIN_GREAT_WORK_CONSTRUCTION_EFFECT:0 "Rozpoczyna budowę w [PROVINCE.GetName|Y]"
+ FINISH_GREAT_WORK_CONSTRUCTION_EFFECT:0 "Kończy budowę $NAME|Y$ w [PROVINCE.GetName|Y]"
+
+ GW_CONSTRUCTION_IN_PROGESS:0 "Budowa [GreatWork.GetName] idzie do przodu!"
+### GW Categories
+ tower:0 "Wieże"
+ pyramid:0 "Piramidy"
+ building:0 "Budynki"
+ GW_CATEGORY_TEMPLATE:0 "Szablony"
+ GW_CATEGORY_TEMPLATE_SLOT:0 "Szablon"
+
+
+### GW Categories Slot
+ gw_category_pyramid_0:0 "Podstawa"
+ gw_category_pyramid_1:0 "Środek"
+ gw_category_pyramid_2:0 "Szczyt"
+
+ gw_category_tower_0:0 "Podstawa"
+ gw_category_tower_1:0 "Środek"
+ gw_category_tower_2:0 "Szczyt"
+
+ gw_category_building_0:0 "Podstawa"
+ gw_category_building_1:0 "Kolumny"
+ gw_category_building_2:0 "Dach"
+
+
+
+
+### GW Materials
+ copper:0 "Miedź"
+ gold:0 "Złoto"
+ ebony:0 "Heban"
+ silver:0 "Srebro"
+ ivory:0 "Kość słoniowa"
+
+ GW_MATERIAL_TOOLTIP:0 "#T $MATERIAL$ #!\nWymaga @$TRADEGOOD_KEY$! $TRADEGOOD_NAME|UY$"
+
+### GW Modules
+ gw_pyramid_01_bottom:0 "Podstawa Mastaba"
+ gw_pyramid_02_bottom:0 "Podstawa Ziggurat"
+ gw_pyramid_03_bottom:0 "Podstawa Kuszycka"
+
+ gw_pyramid_01_mid:0 "Pyramida Frustum"
+ gw_pyramid_02_mid:0 "Piramida Schodkowa"
+ gw_pyramid_03_mid:0 "Kuszycka Frustum"
+
+ gw_pyramid_01_top:0 "Piramidion"
+ gw_pyramid_02_top:0 "Świątynia Ziggurat"
+ gw_pyramid_03_top:0 "Platforma Wierzchołkowa"
+
+ gw_tower_01_bottom:0 "Stoa"
+ gw_tower_02_bottom:0 "Podstawa Poligonalna"
+ gw_tower_03_bottom:0 "Podstawa Okrągła"
+ gw_tower_04_bottom:0 "Mury Celtyckie"
+
+ gw_tower_01_mid:0 "Latarnia Pharos"
+ gw_tower_02_mid:0 "Wieża Schodkowa"
+ gw_tower_03_mid:0 "Kwadratowa Latarnia"
+ gw_tower_04_mid:0 "Wieża Brochowa"
+
+ gw_tower_01_top:0 "Szczyt z oknem"
+ gw_tower_02_top:0 "Szczyt Portyk"
+ gw_tower_03_top:0 "Szczyt Ośmiokątny"
+ gw_tower_04_top:0 "Dach Stożkowy"
+
+ gw_building_01_base:0 "Świątynia"
+ gw_building_03_base:0 "Mauzoleum"
+ gw_building_05_base:0 "Tolos"
+
+ gw_building_01_pillar:0 "Jońskie"
+ gw_building_02_pillar:0 "Doryckie z Abakusem"
+ gw_building_03_pillar:0 "Jońskie z Statuami"
+ gw_building_04_pillar:0 "Jońskie z Lwami"
+ gw_building_05_pillar:0 "Dorycki"
+
+ gw_building_01_roof:0 "Dach z antefiksem"
+ gw_building_03_roof:0 "Dach z fryzem"
+ gw_building_05_roof:0 "Dach z akroterium"
+
+ GW_MODULE_TT:0 "#T $MODULE$#!"
+
+#Templates
+ great_work_template_01:0 "Pyramida 1 Poziomu"
+ great_work_template_01_TT:0 "Piramida z efektami poziomu 1."
+ great_work_template_02:0 "Pyramida 2 Poziomu"
+ great_work_template_02_TT:0 "Piramida z efektami poziomu 2."
+ great_work_template_03:0 "Pyramida 2 Poziomu"
+ great_work_template_03_TT:0 "Piramida z efektami poziomu 3."
+ great_work_template_04:0 "Wieża 1 Poziomu"
+ great_work_template_04_TT:0 "Wieża z efektami poziomu 1."
+ great_work_template_05:0 "Wieża 2 Poziomu"
+ great_work_template_05_TT:0 "Wieża z efektami poziomu 2."
+ great_work_template_06:0 "Wieża 3 Poziomu"
+ great_work_template_06_TT:0 "Wieża z efektami poziomu 3."
+ great_work_template_07:0 "Budynek 1 Poziomu"
+ great_work_template_07_TT:0 "Budynek z efektami poziomu 1."
+ great_work_template_08:0 "Budynek 2 Poziomu"
+ great_work_template_08_TT:0 "Budynek z efektami poziomu 2."
+ great_work_template_09:0 "Budynek 2 Poziomu"
+ great_work_template_09_TT:0 "Budynek z efektami poziomu 3."
+
+###############
+#### NAMES ####
+###############
+
+## Territory
+ gw_name_lighthouse:0 "$ADJ$Latarnia morska w $PROVINCE$"
+ gw_name_lantern:0 "$ADJ$Latarnia w $PROVINCE$"
+ gw_name_beacon:0 "$ADJ$Latarnia w $PROVINCE$"
+ gw_name_spire:0 "$ADJ$Iglica w $PROVINCE$"
+ gw_name_column:0 "$ADJ$Kolumna w $PROVINCE$"
+ gw_name_tower:0 "$ADJ$Wieża w $PROVINCE$"
+ gw_name_pyramid:0 "$ADJ$Piramida w $PROVINCE$"
+ gw_name_monolith:0 "$ADJ$Monolit w $PROVINCE$"
+ gw_name_library:0 "$ADJ$Biblioteka w $PROVINCE$"
+ gw_name_oracle:0 "$ADJ$Wyrocznia w $PROVINCE$"
+ gw_name_acropolis:0 "$ADJ$Akropol w $PROVINCE$"
+ gw_name_temple:0 "$ADJ$Światynia w $PROVINCE$"
+ gw_name_edifice_province:0 "$ADJ$Gmach w $PROVINCE$"
+
+## Ruler
+ gw_name_mausoleum:0 "$ADJ$Mauzoleum rodziny $FAMILY$"
+ gw_name_memorial:0 "$ADJ$Memoriał rodziny $FAMILY$"
+ gw_name_tomb:0 "$ADJ$Grobowiec rodziny $FAMILY$"
+ gw_name_edifice_ruler:0 "$ADJ$Gmach rodzny $FAMILY$"
+
+#### Names Adjectives ####
+ GW_NAME_ADJ:0 "$ADJ$"
+
+ gw_adj_01:0 ""
+
+###############
+## MODIFIERS ##
+###############
+
+ MODIFIER_GREAT_WORK_TOTAL_WORKRATE_CHARACTER:1 "Siła robocza Wielkiego Cudu"
+ MODIFIER_GREAT_WORK_SLAVES_WORKRATE_CHARACTER:1 "Siła robocza niewolników"
+ MODIFIER_GREAT_WORK_TRIBALS_WORKRATE_CHARACTER:1 "Siła robocza plemieńców"
+ MODIFIER_GREAT_WORK_FREEMEN_WORKRATE_CHARACTER:1 "Siła robocza wyzwoleńców"
+ MODIFIER_GREAT_WORK_FIXED_PRESTIGE_CHARACTER:1 "Prestiż ukończonego Wielkiego Cudu"
