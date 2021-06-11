@@ -1,0 +1,49 @@
+﻿l_english:
+##### GW event modifiers
+ vandalized_work_modifier:1 "Zdemolowany Monument"
+ desc_vandalized_work_modifier:0 "Jeden z pomników naszego narodu został zniszczony i zdewastowany, pozostawiając ludzi rozczarowanych i wątpiących w naszą zdolność do rządzenia."
+
+ great_work_celebration:1 "Obchody Monumentu"
+ desc_great_work_celebration:0 "Trwają uroczystości ku czci wielkiego pomnika, który został wzniesiony w tej okolicy, inspirując ludność całego kraju."
+
+ great_work_no_celebration:0 "Niezadowolona Populacja"
+ desc_great_work_no_celebration:0 "Mieszkańcy tego obszaru są niezadowoleni i kwestionują nasze prawo do rządzenia."
+
+ great_work_celebration_2:1 "Obchody rocznicy powstania Monumentu"
+ desc_great_work_celebration_2:0 "$desc_great_work_celebration$"
+
+ great_work_no_celebration_2:0 "Skumulowana populacja niezadowolonych"
+ desc_great_work_no_celebration_2:0 "$desc_great_work_no_celebration$"
+
+ great_work_completed:1 "Monument Ukończony"
+ desc_great_work_completed:0 "Wreszcie ukończyliśmy budowę imponującego pomnika, który zapewni prawowitość naszych rządów, gdyż opowieści o jego pięknie i wielkości rozchodzą się daleko i szeroko."
+
+ great_work_completed_great:1 "Ukończono Monument"
+ desc_great_work_completed_great:0 "W pobliżu zakończyła się budowa naprawdę wielkiego pomnika, który wprawia w zachwyt okolicznych mieszkańców."
+
+ great_work_completed_bad:0 "Ukończono Monument"
+ desc_great_work_completed_bad:0 "$desc_great_work_completed_great$"
+
+ xenophobe_response:0 "Ksenofobiczny Władca"
+ desc_xenophobe_response:0 "Nasze działania sprawiły, że wśród miejscowej ludności mamy opinię dość ksenofobicznych."
+
+ great_work_renovation:1 "Renowacja Monumentu"
+ desc_great_work_renovation:0 "Przeznaczyliśmy znaczne środki na renowację miejscowego zabytku."
+
+ great_work_small_renovation:0 "Pomoc Finansowa"
+ desc_great_work_small_renovation:0 "Przeznaczyliśmy pewne środki na pomoc mieszkańcom w odnowieniu pomnika na tym terenie."
+
+ great_work_dirty:1 "Brudny Monument"
+ desc_great_work_dirty:0 "Brak opieki nad nim spowodował, że miejscowy zabytek jest zaniedbany i nie robi wrażenia w porównaniu z tym, jak wyglądał kiedyś."
+
+ happy_gw_province:0 "Prosperująca Prowincja"
+ desc_happy_gw_province:0 "To terytorium doświadczyło nieoczekiwanego rozwoju gospodarczego po tym, jak w pobliżu wznieśliśmy pomnik."
+
+ praise_the_animals:0 "Chwalmy Zwierzęta"
+ desc_praise_the_animals:0 "Nasi augurowie oświadczyli, że powtarzające się obserwacje zwierząt przy jednym z naszych pomników są dowodem na to, że zostaliśmy pobłogosławieni."
+
+ embrace_great_works_religion:0 "Przyjęcie Wiary"
+ desc_embrace_great_works_religion:0 "Przeznaczyliśmy środki na pomoc lokalnej wierze, która powstała wokół jednego z naszych bardziej okazałych zabytków."
+
+ great_work_more_guards:0 "Więcej straży"
+ desc_great_work_more_guards:0 "Postawiliśmy więcej strażników wokół lokalnego monumentu, aby upewnić się, że nikt go nie zdewastuje ani nie zniszczy."
