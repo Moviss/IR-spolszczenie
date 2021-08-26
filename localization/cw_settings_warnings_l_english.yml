@@ -1,0 +1,5 @@
+﻿l_english:
+ SETTING_VALUE_PERCENTAGE_WARNING:0 "$VALUE|%0X$"
+ RECOMMENDED_GUI_SCALE_TOO_HIGH:1 "#X Skalowanie powyżej $VALUE|%0$ spowoduje pojawienie się interfejsów poza ekranem#!"
+ RECOMMENDED_GUI_SCALE:1 "Skalowanie powyżej $VALUE|%0$ spowoduje pojawienie się interfejsów poza ekranem"
+  
