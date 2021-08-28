@@ -1,6 +1,6 @@
 ﻿l_english:
  NICKNAME_MAXIMUS:0 "Maximus"
- NICKNAME_THE_VICTORIOUS:0 "'Zwyciężca'"
+ NICKNAME_THE_VICTORIOUS:0 "'Zwycięzca'"
  NICKNAME_METELLUS:0 "Metellus"
  NICKNAME_THE_SOLDIER:0 "'Żołnierz'"
  NICKNAME_MERULA:0 "Merula"
@@ -347,10 +347,10 @@
  NICKNAME_CENTHO:0 "Centho"
  NICKNAME_MEGAS:0 "Megas"
  NICKNAME_V:0 "V"
- NICKNAME_ARRIDAIOS:0 "III Arridaios"
+ NICKNAME_ARRIDAIOS:0 "III Arridajos"
  NICKNAME_THALASSOKRATIOS:0 "Thalassokratios"
  NICKNAME_THE_GREAT:0 "'Wielki'"
- Alexander:0 "Alexander"
+ Alexander:0 "Aleksander"
  NICKNAME_HA_SOFER:0 "ha-Sofer"
  NICKNAME_OMAGYRIOS:0 "Omagyrios"
  NICKNAME_BIGGUS:0 "Biggus"
@@ -370,6 +370,6 @@
  NICKNAME_DIKAIOSYNE:0 "Dikaiosyne" # the Just, female
  NICKNAME_BALAS:0 "Balas" # Lord/Ba'al
  NICKNAME_ANIKETOS:0 "Aniketos" # the Invincible
- NICKNAME_SOPHOS:0 "Sophos" # the Wise
+ NICKNAME_SOPHOS:0 "Sophos" # Mądry
  NICKNAME_ILLYRIKOS:0 "Illyrikos"
  NICKNAME_PEISMATIKOS:0 "Peismatikos"
