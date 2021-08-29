@@ -11,7 +11,7 @@
  GOVPOL_GOV_NOT_LOYAL:0 "$NAME$ nie jest na tyle lojalny, by zmienić politykę. Lojalność musi być wyższa niż $VAL|Y%2$ i obecnie wynosi $CURR|Y2%$."
  GOVPOL_ALREADY:0 "$WHO$ już realizuje $NAME$ w $WHERE$."
  GOVPOL_JUST_DO_IT:1 "Zmiana polityki na $POLICY|Y$ w $WHERE$ będzie kosztować $COST$"
- GOVPOL_DO_IT:1 "#T Polityka guvernatora#!\nKliknij, aby wybrać nową politykę dla $WHERE|Y$. Będzie to kosztować $COST$."
+ GOVPOL_DO_IT:1 "#T Polityka gubernatora#!\nKliknij, aby wybrać nową politykę dla $WHERE|Y$. Będzie to kosztować $COST$."
  GOVPOL_TOOLTIP:0 "[GetChangeGovernorPoliciesTooltip(ProvinceWindow.GetState)]\n\n[ProvinceWindow.GetState.GetGovernorPoliciesTooltip]"
  OVERVIEW_GOVPOL_TOOLTIP:1 "[GetChangeGovernorPoliciesTooltip(StateItem.GetState)]\n"
  # Specific ones
