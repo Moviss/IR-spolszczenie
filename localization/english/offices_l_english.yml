@@ -589,7 +589,6 @@
  democratic_republic_rulersouth_levantine:0 "$aristocratic_republic_ruler_south_levantine$"
  democratic_republic_ruler_south_levantine:0 "$aristocratic_republic_ruler_south_levantine$"
  theocratic_republic_ruler_south_levantine:0 "$aristocratic_republic_ruler_south_levantine$"
- theocratic_republic_ruler_female_south_levantine:0 "$
- aristocratic_republic_ruler_south_levantine$"
+ theocratic_republic_ruler_female_south_levantine:0 "$aristocratic_republic_ruler_south_levantine$"
  plutocratic_republic_ruler_south_levantine:0 "$aristocratic_republic_ruler_south_levantine$"
  plutocratic_republic_ruler_female_south_levantine:0 "$aristocratic_republic_ruler_arabic$"
